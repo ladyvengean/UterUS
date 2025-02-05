@@ -1,5 +1,5 @@
 UterUS - A Period Guide for Young Girls 🌸
-About the Project
+
 UterUS is an informative website designed to educate young girls about periods in a simple, friendly, and accessible way. It covers essential topics such as menstrual health, hygiene, myths, self-care tips, and more. The goal is to provide a supportive space for young individuals to understand and navigate their menstrual journey with confidence.
 
 Features 
